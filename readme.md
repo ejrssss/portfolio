@@ -3,7 +3,7 @@
 A custom website for myself.
 
 # Live Links (Github Pages)
-    ejrssss.github.io
+- [(https://ejrssss.github.io/)](https://ejrssss.github.io/)
 
-# PL Used
+# PL Used 
 -html -css -js
