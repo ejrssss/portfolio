@@ -2,4 +2,8 @@
 
 A custom website for myself.
 
-# ejrsss.github.io
+# Live Links (Github Pages)
+    ejrssss.github.io
+
+#PL Used
+-html -css -js
